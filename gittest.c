@@ -5,7 +5,7 @@ int main(void){
 	char buffer[256];
 	scanf("%s", buffer);
 	if(strcmp(buffer, "hello") == 0){
-		printf("Hello");
+		printf("Hello World");
 	}
 	return 0;
 }
